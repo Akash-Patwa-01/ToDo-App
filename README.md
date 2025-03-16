@@ -1,2 +1,1 @@
-This is a Todo App
-<br>
+This is my Todo-App
